@@ -1,0 +1,5 @@
+[30-Nov-2015 02:10:37 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/myguita5/public_html/webmonkeydd.com/lightning-monkey/wp-content/themes/lightning-monkey1/index.php on line 1
+[30-Nov-2015 02:10:44 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/myguita5/public_html/webmonkeydd.com/lightning-monkey/wp-content/themes/lightning-monkey1/index.php on line 1
+[30-Nov-2015 02:12:48 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/myguita5/public_html/webmonkeydd.com/lightning-monkey/wp-content/themes/lightning-monkey1/index.php on line 1
+[30-Nov-2015 02:13:29 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/myguita5/public_html/webmonkeydd.com/lightning-monkey/wp-content/themes/lightning-monkey1/index.php on line 1
+[30-Nov-2015 02:14:34 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/myguita5/public_html/webmonkeydd.com/lightning-monkey/wp-content/themes/lightning-monkey1/index.php on line 1
